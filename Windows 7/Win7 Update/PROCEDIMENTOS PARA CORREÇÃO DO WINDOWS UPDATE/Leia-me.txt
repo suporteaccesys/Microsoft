@@ -1,3 +1,0 @@
-PROCEDIMENTO PARA CORRIGIR ERRO DO WINDOWS UPDATE QUE TRAVA EM "VERIFICANDO ATUALIZAÇÕES"
-
-Vá até a pasta "C:\Windows\SoftwareDistribution\" e delete as pastas "DataStore" e "Download". Após isso instale as atualizações "Windows6.1-KB3020369" e "Windows6.1-KB3172605". Reinicie e rode o Windows Update novamente.
